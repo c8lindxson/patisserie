@@ -133,32 +133,32 @@
   price: ¥4,510
   image: food/dish27-pound-cake-baked-goods.jpg
 
-- name: Chocolat Frée- SEASONAL from November to the end of March.
-  description: 1 box of 12 pieces (refrigeration required).
+- name: Chocolat Frée
+  description: SEASONAL from November to the end of March.. 1 box of 12 pieces (refrigeration required).
   price: ¥1,480
   image: food/dish28-chocolat.jpg
 
-- name: Amand Chocolat- SEASONAL from November to the end of March.
-  description: Fragrant caramelized almond chocolate.
+- name: Amand Chocolat
+  description: SEASONAL from November to the end of March. Fragrant caramelized almond chocolate.
   price: ¥1,480
   image: food/dish29-amand-chocolat.jpg
 
-- name: Orangette- SEASONAL from November to the end of March.
-  description: Homemade orange peel coated with chocolate.
+- name: Orangette
+  description: SEASONAL from November to the end of March. Homemade orange peel coated with chocolate.
   price: ¥1,480
   image: food/dish30-orangette.jpg
 
-- name: Joli Chocolat- SEASONAL from November to the end of March.
-  description: Sweet chocolate topped with nuts and dried fruits. 2 pieces.
+- name: Joli Chocolat
+  description: SEASONAL from November to the end of March. Sweet chocolate topped with nuts and dried fruits. 2 pieces.
   price: ¥198
   image: food/dish31-joli-chocolat.jpg
 
-- name: Jelly- SEASONAL from June to the end of August.
-  description: No preservatives or coloring added, 100% fruit juice jelly. 7 flavors- Grape, Mango, Pear, Strawberry, Orange, Peach, Guava.
+- name: Jelly
+  description: SEASONAL from June to the end of August. No preservatives or coloring added, 100% fruit juice jelly. 7 flavors- Grape, Mango, Pear, Strawberry, Orange, Peach, Guava.
   price: ¥297
   image: food/dish32-jelly-1.jpg
 
-- name: Jelly 6 pieces- SEASONAL from June to the end of August.
-  description: No preservatives or coloring added, 100% fruit juice jelly. 7 flavors- Grape, Mango, Pear, Strawberry, Orange, Peach, Guava. You can choose your favorite flavors or leave it to us.
+- name: Jelly 6 pieces
+  description: SEASONAL from June to the end of August. No preservatives or coloring added, 100% fruit juice jelly. 7 flavors- Grape, Mango, Pear, Strawberry, Orange, Peach, Guava. You can choose your favorite flavors or leave it to us.
   price: ¥2,033
   image: food/dish33-jelly-6.jpg

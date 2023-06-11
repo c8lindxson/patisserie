@@ -1,7 +1,7 @@
 .cards {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 16px;
+  grid-gap: 8px;
 }
 
 .sub-title {
@@ -21,12 +21,35 @@
   padding: 16px;
 }
 
+.info {
+  background-size: cover;
+  padding: 100px 0;
+  object-position: center top;
+  padding: 16px;
+}
+
+.info h2 {
+  color: #b60321;
+  margin: 0;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.info p {
+  font-size: 20px;
+  margin-bottom: 0px;
+  color: white;
+  opacity: .7;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+}
+
 #price {
   color: #C36F09;
 }
 
 .card {
-  max-width: 330px;
+  max-width: 100%;
 }
 
 .card-product {
@@ -36,7 +59,7 @@
 }
 
 .card-product > img {
-  height: 200px;
+  height: 190px;
   width: 100%;
   object-fit: cover;
 }
