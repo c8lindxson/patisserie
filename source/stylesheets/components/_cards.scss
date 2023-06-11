@@ -15,7 +15,6 @@
 
 .cafe {
   justify-content: center;
-  width: 330px;
   background: white;
   box-shadow: 0 0 15px rgba(0,0,0,0.2);
   padding: 16px;
@@ -26,6 +25,7 @@
   padding: 100px 0;
   object-position: center top;
   padding: 16px;
+  height: 435px;
 }
 
 .info h2 {
@@ -94,11 +94,17 @@
   .cards {
     grid-template-columns: 1fr;
   }
+  .about {
+    grid-template-columns: 1fr;
+  }
 }
 
 // Small devices (landscape phones, 576px and up)
 @media (min-width: 576px) {
   .cards {
+    grid-template-columns: 1fr;
+  }
+  .about {
     grid-template-columns: 1fr;
   }
 }
@@ -108,6 +114,9 @@
   .cards {
     grid-template-columns: 1fr 1fr;
   }
+  .about {
+    grid-template-columns: 1fr 1fr;
+  }
 }
 
 // Large devices (desktops, 992px and up)
@@ -115,11 +124,17 @@
   .cards {
     grid-template-columns: 1fr 1fr 1fr;
   }
+  .about {
+    grid-template-columns: 1fr 1fr;
+  }
 }
 
 // Extra large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) {
   .cards {
     grid-template-columns: 1fr 1fr 1fr;
+  }
+  .about {
+    grid-template-columns: 1fr 1fr;
   }
 }
