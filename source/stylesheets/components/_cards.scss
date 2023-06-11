@@ -1,18 +1,26 @@
-.main-card {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-gap: 16px;
-}
-
 .cards {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 16px;
 }
 
+.sub-title {
+  text-align: center;
+  color: grey;
+}
+
+.sub-title h2 {
+  color: #A4031F;
+}
+
+.cafe {
+  justify-content: center;
+  width: 300px;
+}
+
 .card-product {
   overflow: hidden;
-  height: 120px;
+  height: 150px;
   background: white;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
   display: flex;
@@ -29,6 +37,11 @@
   font-size: 16px;
   font-weight: bold;
   margin: 0;
+  color: #240B36;
+}
+
+#price {
+  color: #C36F09;
 }
 
 .card-product p {
