@@ -2,7 +2,7 @@
   height: 200px;
   background-size: cover;
   padding: 100px 0;
-  background-color: #FFE19C
+  background-color: #FFE19C;
 }
 
 .banner h1 {
@@ -11,5 +11,10 @@
 
 .banner p {
   margin-bottom: 0px;
+  color: grey;
+}
+
+.banner a {
+  text-decoration: none;
   color: grey;
 }
