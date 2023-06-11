@@ -1,3 +1,9 @@
+.main-card {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 16px;
+}
+
 .cards {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -42,16 +48,6 @@
   }
 }
 
-.external-link {
-  margin-left: 8px;
-  opacity: 0;
-  color: $gray;
-  transition: opacity 1s;
-  &:hover {
-    cursor: pointer;
-    color: $gray
-  }
-}
 
 // Smallest device
 @media (min-width: 100px) and (max-width: 575px) {

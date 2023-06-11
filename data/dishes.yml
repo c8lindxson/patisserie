@@ -14,7 +14,7 @@
   image: food/dish3-coconut-mer.jpg
 
 - name: Fruit Meringue
-  description: Sweet strawberry and Passion fruit. 10pcs
+  description: Sweet strawberry and Passion fruit. 10pcs.
   price: ¥445
   image: food/dish4-fruit-mer.jpg
 
@@ -23,62 +23,142 @@
   price: ¥185
   image: food/dish5-madeleine.jpg
 
-- name:
-  description:
-  price:
-  image:
+- name: Galette Bretonne
+  description: A traditional confectionery from the Brittany region. Thick baked cookies with a pleasant feeling.
+  price: ¥185
+  image: food/dish6-galette-bre.jpg
 
-- name:
-  description:
-  price:
-  image:
+- name: Dacoise
+  description: Cream of tree nuts sandwiched between fluffy meringue dough.
+  price: ¥195
+  image: food/dish7-dacoise.jpg
 
-- name:
-  description:
-  price:
-  image:
+- name: Julián
+  description: Made with fragrant Spanish almond powder.
+  price: ¥185
+  image: food/dish8-Julian.jpg
 
-- name:
-  description:
-  price:
-  image:
+- name: Financier
+  description: Baked goods called "gold nuggets" with cocoa flavor.
+  price: ¥185
+  image: food/dish9-financier.jpg
 
-- name:
-  description:
-  price:
-  image:
+- name: Valencia
+  description: Almond-flavored baked good made with homemade orange peel.
+  price: ¥185
+  image: food/dish10-valencia.jpg
 
-- name:
-  description:
-  price:
-  image:
+- name: Macadamia Chocolate Chip Cookies
+  description: Macadamia Nut and Chocolate Chip Cookies.
+  price: ¥185
+  image: food/dish11-macadamia.jpg
 
-- name:
-  description:
-  price:
-  image:
+- name: Galette Anglaise
+  description: Maple Sugar and Earl Grey fragrant baked goods.
+  price: ¥185
+  image: food/dish12-galette-ang.jpg
 
-- name:
-  description:
-  price:
-  image:
+- name: Coquille
+  description: Chocolate and chopped walnuts are fragrant baked good.
+  price: ¥185
+  image: food/dish13-coquille.jpg
 
-- name:
-  description:
-  price:
-  image:
+- name: Bourg de Neige
+  description: Cookies with walnuts. 3 pieces. Egg free!
+  price: ¥240
+  image: food/dish14-bourg-de.jpg
 
-- name:
-  description:
-  price:
-  image:
+- name: Nougat Montélimar
+  description: Traditional confectionery from the Montélimar region.
+  price: ¥195
+  image: food/dish15-nougat-mon.jpg
 
-- name:
-  description:
-  price:
-  image:
+- name: Florentin Chocolate
+  description: Nougat on top of chocolate cookies.
+  price: ¥185
+  image: food/dish16-florentin.jpg
 
-- name:
-  description:
-  price:
-  image:
+- name: Pistache
+  description: Homemade strawberry jam sandwiched in pistachio dough.
+  price: ¥195
+  image: food/dish17-pistache.jpg
+
+- name: Châtaine Marron
+  description: Made with marron paste from France.
+  price:  ¥185
+  image: food/dish18-chataine-mar.jpg
+
+- name: Macarons
+  description: 5 flavors- Vanilla, Coffee, Chocolate, Pistachio, and Strawberry.
+  price: ¥1185
+  image: food/dish19-macarons.jpg
+
+- name: Leaf pie
+  description: Crispy puff pastry "Tsubutsubu" Leaf Pie with delicious zarame. 2 pieces. Egg free!
+  price: ¥297
+  image: food/dish20-leaf-pie.jpg
+
+- name: Simple Cookies- 5 flavor options
+  description: Sable, Oatmeal with Sesame Seeds, Parisian with Walnuts, Chocolate with Cinnamon and Cashews, Macadamia Vanilla.
+  price: ¥602
+  image: food/dish21-simple-cookies.jpg
+
+- name: 7 Piece Assortment
+  description: Leaf pie, Julián, Crocan, Coquille, Valencia, Madeleine, Châtaine Marron.
+  price: ¥1,402
+  image: food/dish22-assortment-7.jpg
+
+- name: 10 Piece Assortment
+  description: Valencia, Financier, Dacoise, Julián, Madeleine 2 each.
+  price: ¥2,098
+  image: food/dish23-assortment-10.jpg
+
+- name: 15 Piece Assortment
+  description: Galette Bou Anglaise, Madeleine, Galette Bretonne 5 pieces each.
+  price: ¥3,038
+  image: food/dish24-assortment-15.jpg
+
+- name: Coconut Meringue, Leaf Pie Assortment
+  description: 15 individually wrapped Coconut Meringues, 5 bags of 2 leaf Pies.
+  price: ¥2,241
+  image: food/dish25-coco-mer-leaf-pie.jpg
+
+- name: Assortment of 6 cookie jars
+  description: You can choose your favorite flavors or leave it to us.
+  price: ¥3,885
+  image: food/dish26-assort-6.jpg
+
+- name: Pound Cake and Baked Goods Assortment
+  description: 2 pound cakes, 5 galette Bretonnes and 5 Madeleines. Flavor options- Brandy & Chocolate, Fruitcake with Homemade Orange Peel, Nuts & Rum Raisins, Cranberry & Chocolate Chips, Almond Amaretto. You can choose your favorite flavors or leave it to us.
+  price: ¥4,510
+  image: food/dish27-pound-cake-baked-goods.jpg
+
+- name: Chocolat Frée- SEASONAL from November to the end of March.
+  description: 1 box of 12 pieces (refrigeration required).
+  price: ¥1,480
+  image: food/dish28-chocolat.jpg
+
+- name: Amand Chocolat- SEASONAL from November to the end of March.
+  description: Fragrant caramelized almond chocolate.
+  price: ¥1,480
+  image: food/dish29-amand-chocolat.jpg
+
+- name: Orangette- SEASONAL from November to the end of March.
+  description: Homemade orange peel coated with chocolate.
+  price: ¥1,480
+  image: food/dish30-orangette.jpg
+
+- name: Joli Chocolat- SEASONAL from November to the end of March.
+  description: Sweet chocolate topped with nuts and dried fruits. 2 pieces.
+  price: ¥198
+  image: food/dish31-joli-chocolat.jpg
+
+- name: Jelly- SEASONAL from June to the end of August.
+  description: No preservatives or coloring added, 100% fruit juice jelly. 7 flavors- Grape, Mango, Pear, Strawberry, Orange, Peach, Guava.
+  price: ¥297
+  image: food/dish32-jelly-1.jpg
+
+- name: Jelly 6 pieces- SEASONAL from June to the end of August.
+  description: No preservatives or coloring added, 100% fruit juice jelly. 7 flavors- Grape, Mango, Pear, Strawberry, Orange, Peach, Guava. You can choose your favorite flavors or leave it to us.
+  price: ¥2,033
+  image: food/dish33-jelly-6.jpg

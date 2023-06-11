@@ -1,22 +1,9 @@
 <div class="row my-5">
   <div class="col-12">
     <div class="container">
-      <div id="projects">
+      <div class="">
         <h2> Baked Gifts</h2>
-        <div class="cards">
-          <% data.dishes.each do |dish| %>
-            <div class="card-product">
-              <%= image_tag dish.image, alt: "dish image" %>
-              <div class="card-product-infos w-100">
-                <div class="d-flex justify-content-between align-items-center">
-                  <h2><%= dish.name %></h2>
-                  <h2><%= dish.price %></h2>
-                </div>
-                <p><%= dish.description %></p>
-              </div>
-            </div>
-          <% end %>
-        </div>
+        <button type="button" class="button">See more...</button>
       </div>
     </div>
   </div>
