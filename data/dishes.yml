@@ -1,0 +1,84 @@
+- name: Piaf
+  description: Cream of nuts and chocolate cream, and caramelized nuts sandwiched between almond-flavored dacoise dough. Can be enjoyed frozen or chilled.
+  price: ¥3,000
+  image: food/dish1-piaf.jpg
+
+- name: Grand Cacao
+  description: Original chocolate cake with fragrant roasted cacao beans.
+  price: ¥1,200
+  image: food/dish2-grand-cacao.jpg
+
+- name: Coconut Meringue
+  description: Light and sweet with a strong coconut taste. Shelf life of one month and a perfect gift.
+  price: ¥463
+  image: food/dish3-coconut-mer.jpg
+
+- name: Fruit Meringue
+  description: Sweet strawberry and Passion fruit. 10pcs
+  price: ¥445
+  image: food/dish4-fruit-mer.jpg
+
+- name: Madeleine
+  description: Traditional French confectionery with butter and natural vanilla aroma.
+  price: ¥185
+  image: food/dish5-madeleine.jpg
+
+- name:
+  description:
+  price:
+  image:
+
+- name:
+  description:
+  price:
+  image:
+
+- name:
+  description:
+  price:
+  image:
+
+- name:
+  description:
+  price:
+  image:
+
+- name:
+  description:
+  price:
+  image:
+
+- name:
+  description:
+  price:
+  image:
+
+- name:
+  description:
+  price:
+  image:
+
+- name:
+  description:
+  price:
+  image:
+
+- name:
+  description:
+  price:
+  image:
+
+- name:
+  description:
+  price:
+  image:
+
+- name:
+  description:
+  price:
+  image:
+
+- name:
+  description:
+  price:
+  image:
