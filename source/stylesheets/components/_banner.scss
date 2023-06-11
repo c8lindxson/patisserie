@@ -1,20 +1,26 @@
 .banner {
-  height: 200px;
   background-size: cover;
   padding: 100px 0;
-  background-color: #FFE19C;
+  object-position: center top;
 }
 
 .banner h1 {
-  color: #A4031F;
-}
-
-.banner p {
-  margin-bottom: 0px;
-  color: grey;
+  color: #b60321;
+  margin: 0;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  font-size: 32px;
+  font-weight: bold;
 }
 
 .banner a {
   text-decoration: none;
-  color: grey;
+  color: white;
+}
+
+.banner p {
+  font-size: 20px;
+  margin-bottom: 0px;
+  color: white;
+  opacity: .7;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
 }

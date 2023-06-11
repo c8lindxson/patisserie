@@ -2,3 +2,9 @@
   width: 300px;
   justify-content: center;
 }
+
+.carousel img {
+  max-height: 220px;
+  object-position: center;
+  object-fit: cover;
+}
